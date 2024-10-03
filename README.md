@@ -3,6 +3,7 @@
 Hi 👋 
 
 I'm currently learning Django and Python 🐍
+Combining fulltime work with studying 📖 
 Sports: 🚴‍♂️
 
 <!--
